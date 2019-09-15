@@ -1,3 +1,6 @@
+# 本项目已停止维护，
+## 请使用https://github.com/Nuctori/python-cqhttp代替本项目进行QQ机器人的开发。
+
 # CQbot.py
 A tiny framework use python to make a qq bot dependency upon CoolQ
 you can use it to build a qqbot in a easy way
